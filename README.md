@@ -11,8 +11,8 @@ Full Stack Developer · AI Enthusiast · Open Source Learner
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chengyanqi123&show_icons=true&theme=transparent"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengyanqi123&layout=compact&theme=transparent"/>
+<img height="170" src="https://github-readme-stats-eight-bice-16.vercel.app/api?username=chengyanqi123&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats-eight-bice-16.vercel.app/api/top-langs/?username=chengyanqi123&layout=compact&theme=transparent"/>
 </p>
 
 <p align="center">
